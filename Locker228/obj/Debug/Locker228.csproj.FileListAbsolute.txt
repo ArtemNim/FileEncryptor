@@ -1,0 +1,17 @@
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\bin\Debug\Locker228.exe.config
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\bin\Debug\Locker228.exe
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\bin\Debug\Locker228.pdb
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\obj\Debug\MainWindow.g.cs
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\obj\Debug\App.g.cs
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\obj\Debug\Locker228_MarkupCompile.cache
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\obj\Debug\Locker228_MarkupCompile.lref
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\obj\Debug\MainWindow.baml
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\obj\Debug\Locker228.g.resources
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\obj\Debug\Locker228.Properties.Resources.resources
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\obj\Debug\Locker228.csproj.GenerateResource.Cache
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\obj\Debug\Locker228.exe
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\obj\Debug\Locker228.pdb
+c:\users\artem\documents\visual studio 2015\Projects\Locker228\Locker228\obj\Debug\Locker228.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Desktop\Locker228\Locker228\bin\Debug\Locker228.exe.config
+C:\Users\Artem\Desktop\Locker228\Locker228\obj\Debug\Locker228.exe
+C:\Users\Artem\Desktop\Locker228\Locker228\obj\Debug\Locker228.pdb
